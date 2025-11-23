@@ -4,6 +4,7 @@ Here is a detailed README.md for your PII Entity Recognition system for noisy ST
 
 # PII Entity Recognition in Noisy STT Transcripts  
 **IIT Madras × Plivo ML Assignment — 23rd Nov**
+DA24M006 Gaurav Kumar
 
 ## 1. Overview  
 This project presents a token-level Named Entity Recognition (NER) system designed to detect Personally Identifiable Information (PII) entities in noisy speech-to-text (STT) transcripts. The system can identify seven entity types, marking whether they are PII, and returns character-level spans, entity labels, and a PII flag—optimized for high precision and low latency.
